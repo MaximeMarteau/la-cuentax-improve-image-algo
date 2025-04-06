@@ -1,0 +1,7 @@
+__pycache__/
+lacuentax-adb671932cd7.json
+cuentas/
+layoutlm_finetuned/
+.venv/
+.env
+.DS_Store
